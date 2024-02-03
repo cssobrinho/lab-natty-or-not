@@ -4,7 +4,7 @@
 
 > Woooow! Look at this 👀
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Olá pessoal, criando conteúdo com ia generativa!
 
 ## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
 
@@ -20,32 +20,21 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Script de vendas Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Utilizando a ia generativa. Pretendo criar um script generico para vendas e disponibiliza-ló em formato de página web.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+gammaapp, disponivél em : https://gamma.app/create
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Descrevendo informações relevantes ao assunto em um prompt de linha.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+[Resultado](https://vendas-erp-supermercados-4vrreay.gamma.site/)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+O que mais me impressiona ao utilizar o auxílio da ia é a velocidado do resultado da tarefa solicitada.
 ```
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
